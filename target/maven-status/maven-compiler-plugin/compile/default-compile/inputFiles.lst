@@ -1,0 +1,14 @@
+E:\uni project\src\main\java\com\example\bookmanager\BookManagerApplication.java
+E:\uni project\src\main\java\com\example\bookmanager\config\AppProperties.java
+E:\uni project\src\main\java\com\example\bookmanager\config\DataInitializer.java
+E:\uni project\src\main\java\com\example\bookmanager\config\OpenApiConfig.java
+E:\uni project\src\main\java\com\example\bookmanager\controller\BookRestController.java
+E:\uni project\src\main\java\com\example\bookmanager\controller\ImageController.java
+E:\uni project\src\main\java\com\example\bookmanager\controller\WebBookController.java
+E:\uni project\src\main\java\com\example\bookmanager\dto\BookForm.java
+E:\uni project\src\main\java\com\example\bookmanager\model\Book.java
+E:\uni project\src\main\java\com\example\bookmanager\model\Category.java
+E:\uni project\src\main\java\com\example\bookmanager\repository\BookRepository.java
+E:\uni project\src\main\java\com\example\bookmanager\repository\CategoryRepository.java
+E:\uni project\src\main\java\com\example\bookmanager\service\BookService.java
+E:\uni project\src\main\java\com\example\bookmanager\service\CategoryService.java

@@ -1,0 +1,15 @@
+com\example\bookmanager\service\BookService.class
+com\example\bookmanager\BookManagerApplication.class
+com\example\bookmanager\service\CategoryService.class
+com\example\bookmanager\config\OpenApiConfig.class
+com\example\bookmanager\controller\ImageController.class
+com\example\bookmanager\config\AppProperties.class
+com\example\bookmanager\repository\BookRepository.class
+com\example\bookmanager\controller\BookRestController.class
+com\example\bookmanager\repository\CategoryRepository.class
+com\example\bookmanager\model\Book$BookBuilder.class
+com\example\bookmanager\model\Category.class
+com\example\bookmanager\model\Book.class
+com\example\bookmanager\config\DataInitializer.class
+com\example\bookmanager\controller\WebBookController.class
+com\example\bookmanager\dto\BookForm.class
