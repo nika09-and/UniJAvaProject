@@ -24,12 +24,12 @@ public class BookService {
         return bookRepository.findAll();
     }
 
-    // Get book by id (FIX for your error)
+    // Get book by id
     public Optional<Book> findById(Long id) {
         return bookRepository.findById(id);
     }
 
-    // Delete book by id (FIX for your error)
+    // Delete book by id
     public void deleteById(Long id) {
         bookRepository.deleteById(id);
     }
