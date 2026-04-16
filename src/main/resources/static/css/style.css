@@ -123,6 +123,7 @@ a {
 
 .book-category {
   background-color: #5c4f4a;
+  color: #5c4f4a !important;
 }
 
 .text-danger {
